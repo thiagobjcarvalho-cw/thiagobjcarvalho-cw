@@ -21,35 +21,21 @@ I'm Thiago Carvalho, from Brazil.
 <br>
 
 <html>
-<body>
-<table>
-<tr>
-   <td>
-   📍 Living
-  </td>
-  <td>
-  💻 Working
-  </td>
-  <td>
- 🌍 Languages
-  </td>
-</tr>
-<tr>
-<td>
-Brasilia, DF
-</td>
-<td>
-Remote FullStack developer at TCDF Brasil since 2024
-</td>
-<td align="center">
-<img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" 	width="20px" alt="Brasil"/>
-</td>
-</tr>
-</table>
-	
-</body>
+  <body>
+    <table>
+      <tr>
+        <td>📍 Living</td>
+        <td>💻 Working</td>
+        <td>🌍 Languages</td>
+      </tr>
+      <tr>
+        <td>Brasilia, DF</td>
+		<td>Remote FullStack developer at TCDF Brasil since 2024</td>
+		<td align="center"><img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" width="20px" alt="Brasil"/></td>
+      </tr>
+    </table>
+  </body>
 </html>
-
 
 ---
 
@@ -78,12 +64,10 @@ Remote FullStack developer at TCDF Brasil since 2024
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=thiagobjcarvalho-cw&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="status do github">
 
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=thiagobjcarvalho-cw&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ##### Thiago Carvalho!
-###### Working at **TCDF** - *Tribunal de Contas do Distrito Federal*<br/> Software Engineer Senior Full stack with *VueJS* and *API-Platform*
-
+###### Working at <strong>TCDF</strong> - *Tribunal de Contas do Distrito Federal*<br/> Software Engineer Senior Full stack with *VueJS* and *API-Platform*
 
 ##### Profiles
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagobjcarvalho/)](https://www.linkedin.com/in/thiagobjcarvalho/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiago_dcarvalho/)](https://www.instagram.com/thiago_dcarvalho/)  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.telegram.com/thiagobjcarvalho/)](https://www.telegram.com/thiagobjcarvalho/)  
