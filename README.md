@@ -7,15 +7,12 @@ I'm Thiago Carvalho, from Brazil.
 > Javascript Fullstack Senior
 
 #### Languages and Tools
-
-<p align="center">
 <br>
-
+<p align="center">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js">    
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/vue.svg" alt="vue">    
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react">   
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode">
-
 </p>
 
 <br>
@@ -30,8 +27,8 @@ I'm Thiago Carvalho, from Brazil.
       </tr>
       <tr>
         <td>Brasilia, DF</td>
-		<td>Remote FullStack developer at TCDF Brasil since 2024</td>
-		<td align="center"><img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" width="20px" alt="Brasil"/></td>
+	<td>Remote FullStack developer at TCDF Brasil since 2024</td>
+	<td align="center"><img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" width="20px" alt="Brasil"/></td>
       </tr>
     </table>
   </body>
@@ -41,8 +38,7 @@ I'm Thiago Carvalho, from Brazil.
 
 #### Knowlogies
 
-
-```ts
+~~~ts
 <script setup>
   const programmerSkills = {
     languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
@@ -58,9 +54,8 @@ I'm Thiago Carvalho, from Brazil.
 
   console.info(programmerSkills);
 </script>
-```
+~~~
 
-<br>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=thiagobjcarvalho-cw&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="status do github">
 
