@@ -1,6 +1,6 @@
 ## Heyyy!
 
-I'm Thiago Carvalho, from Brazil. 
+I'm Thiago Carvalho, from Brazil.   <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" width="20px" style="margin-left: 20px;" alt="Brasil"/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
@@ -39,6 +39,7 @@ I'm Thiago Carvalho, from Brazil.
 #### Knowlogies
 
 ~~~ts
+
 <script setup>
   const programmerSkills = {
     languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
@@ -65,4 +66,4 @@ I'm Thiago Carvalho, from Brazil.
 ###### Working at <strong>TCDF</strong> - *Tribunal de Contas do Distrito Federal*<br/> Software Engineer Senior Full stack with *VueJS* and *API-Platform*
 
 ##### Profiles
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagobjcarvalho/)](https://www.linkedin.com/in/thiagobjcarvalho/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiago_dcarvalho/)](https://www.instagram.com/thiago_dcarvalho/)  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.telegram.com/thiagobjcarvalho/)](https://www.telegram.com/thiagobjcarvalho/)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagobjcarvalho/)](https://www.linkedin.com/in/thiagobjcarvalho/)  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.telegram.com/thiagobjcarvalho/)](https://www.telegram.com/thiagobjcarvalho/)   [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thiago_dcarvalho/)](https://www.instagram.com/thiago_dcarvalho/) 
