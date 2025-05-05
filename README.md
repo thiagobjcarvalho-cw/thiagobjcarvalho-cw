@@ -1,10 +1,12 @@
 ## Heyyy!
 
-I'm Thiago Carvalho, from Brazil.   <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" width="20px" style="margin-left: 20px;" alt="Brasil"/>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+I'm Thiago Carvalho, from Brazil. <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" width="20px" style="margin-left: 20px;" alt="Brasil"/>
 
 > Javascript Fullstack Senior
+
+<br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 #### Languages and Tools
 <br>
