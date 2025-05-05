@@ -8,7 +8,7 @@ I'm Thiago Carvalho, from Brazil. <img src="https://cdn.countryflags.com/thumbs/
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-#### Languages and Tools
+#### Languages
 <br>
 <p align="center">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js">    
