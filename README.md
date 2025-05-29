@@ -2,13 +2,10 @@
 ~~~bash
 ❯ cat ThiagoProfile.md ↴
 ~~~
+
+> I'm 🆃🅷🅸🅰🅶🅾 🅲🅰🆁🆅🅰🅻🅷🅾, Javascript Fullstack Sr from Brazil. <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" width="20px" style="margin-left: 20px;" alt="Brasil"/>
+
 <br>
-
-I'm 🆃🅷🅸🅰🅶🅾 🅲🅰🆁🆅🅰🅻🅷🅾, from Brazil. <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" width="20px" style="margin-left: 20px;" alt="Brasil"/>
-
-<br>
-
-> Javascript Fullstack Senior
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
@@ -34,7 +31,10 @@ I'm 🆃🅷🅸🅰🅶🅾 🅲🅰🆁🆅🅰🅻🅷🅾, from Brazil. <img
       <tr>
         <td>Brasilia, DF</td>
 	<td>Remote FullStack developer at TCDF Brasil since 2024</td>
-	<td align="center"><img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" width="20px" alt="Brasil"/></td>
+	<td align="center">
+		<img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" width="20px" alt="Brasil"/>
+		<img src="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" height="20px" width="20px" style="margin-left: 20px;" alt="United States"/>
+	</td>
       </tr>
     </table>
   </body>
