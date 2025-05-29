@@ -3,7 +3,7 @@
 ❯ cat ThiagoProfile.md ↴
 ~~~
 
-> I'm 🆃🅷🅸🅰🅶🅾 🅲🅰🆁🆅🅰🅻🅷🅾, Javascript Fullstack Sr from Brazil. <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" width="20px" style="margin-left: 20px;" alt="Brasil"/>
+> I'm <span style="color: white;">🆃🅷🅸🅰🅶🅾 🅲🅰🆁🆅🅰🅻🅷🅾</span>, Javascript Fullstack Sr from Brazil. <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" height="20px" width="20px" style="margin-left: 20px;" alt="Brasil"/>
 
 <br>
 
